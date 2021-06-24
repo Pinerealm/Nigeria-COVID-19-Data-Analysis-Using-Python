@@ -47,6 +47,6 @@ Coronavirus disease 2019 [(COVID-19)](https://en.wikipedia.org/wiki/COVID-19), c
 * Comparison with other countries' data.
 
 
-# Future Work
+# Standout Section
 * Extracting a summary of blood samples tested and the outcomes of COVID-19 infection.
 * Viewing monthly data for infections and outcomes.
